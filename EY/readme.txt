@@ -7,7 +7,7 @@ This program is intended to compute for Dissimilarity Index and Schelling model 
 Current limitations:
 Supports inputs of fixed length (100 characters).
 Subgrid creation in sample program was done manually.
-Computation for Dissimilarity Index is limited to 2 values only. 
+Computation for Dissimilarity Index is limited to 2 categories/values only. 
 Schelling model is not yet available.
 
 
